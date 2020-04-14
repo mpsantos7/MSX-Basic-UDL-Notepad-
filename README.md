@@ -11,7 +11,3 @@ Download the XML file msxbasic "Import the file by placing the file in your user
 
 The follow step is to load the basic program in openMSX by mounting a directory as disk or using Catapult text tool entry.
 
-
-Following a example from  Burd's Book, Gorks Game
-
-![./msxbasic.png]
